@@ -1,4 +1,5 @@
 {
+  "name": "semantic-release-demo",
   "dependencies": {
     "semantic-release": "^23.0.2"
   }
