@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/fico95/semantic-release/compare/v1.2.1...v2.0.0) (2024-02-26)
+
+
+### Features
+
+* add new line ([a80873b](https://github.com/fico95/semantic-release/commit/a80873bbb145716e8767ae30f5f4291af49e7092))
+
+
+### BREAKING CHANGES
+
+* new line is added after printing message
+
 ## [1.2.1](https://github.com/fico95/semantic-release/compare/v1.2.0...v1.2.1) (2024-02-26)
 
 
