@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/fico95/semantic-release/compare/v1.2.0...v1.2.1) (2024-02-26)
+
+
+### Bug Fixes
+
+* print message typo ([449157b](https://github.com/fico95/semantic-release/commit/449157b396c39c739a6aa068e0181203ab4319a0))
+
 # [1.2.0](https://github.com/fico95/semantic-release/compare/v1.1.0...v1.2.0) (2024-02-26)
 
 
