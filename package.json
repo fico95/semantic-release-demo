@@ -2,5 +2,9 @@
   "name": "semantic-release-demo",
   "dependencies": {
     "semantic-release": "^23.0.2"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
   }
 }
