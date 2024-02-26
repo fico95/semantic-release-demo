@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/fico95/semantic-release/compare/v1.1.0...v1.2.0) (2024-02-26)
+
+
+### Features
+
+* change print message ([1c5d4d8](https://github.com/fico95/semantic-release/commit/1c5d4d8e05ebe307ef05de2601e510c6ad272f7d))
+
 # [1.1.0](https://github.com/fico95/semantic-release/compare/v1.0.0...v1.1.0) (2024-02-26)
 
 
